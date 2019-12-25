@@ -7,6 +7,7 @@
 # @Software: PyCharm
 import queue
 
+
 class Node:
     def __init__(self, key, value):
         self.key = key
